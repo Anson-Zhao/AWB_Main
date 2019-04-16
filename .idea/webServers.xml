@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d16256e0-cd3d-41fa-8d65-6e8381f1407b" name="AWB_Main" url="">
+        <fileTransfer host="home.aworldbridgelabs.com" port="5532" rootFolder="/var/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="5532" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
